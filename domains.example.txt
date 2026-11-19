@@ -1,0 +1,7 @@
+# Example domain list for ssl_check.py
+# Supports plain hostnames, custom host:port, and full https:// URLs
+
+github.com
+cloudflare.com
+python.org:443
+https://example.com/health
